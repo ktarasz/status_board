@@ -21,3 +21,15 @@ openprocurement.tender.competitivedialogue
 
 openprocurement.contracting.api
 - [![Build Status](https://travis-ci.org/openprocurement/openprocurement.contracting.api.svg?branch=production)](https://travis-ci.org/openprocurement.contracting.api)
+
+openprocurement.archivarius.core
+- [![Build Status](https://travis-ci.org/openprocurement/openprocurement.archivarius.core.svg?branch=production)](https://travis-ci.org/openprocurement.archivarius.core)
+
+openprocurement.archivarius.tenders
+- [![Build Status](https://travis-ci.org/openprocurement/openprocurement.archivarius.tenders.svg?branch=production)](https://travis-ci.org/openprocurement.archivarius.tenders)
+
+openprocurement.archivarius.contracts
+- [![Build Status](https://travis-ci.org/openprocurement/openprocurement.archivarius.contracts.svg?branch=production)](https://travis-ci.org/openprocurement.archivarius.contracts)
+
+openprocurement.archivarius.plans
+- [![Build Status](https://travis-ci.org/openprocurement/openprocurement.archivarius.plans.svg?branch=production)](https://travis-ci.org/openprocurement.archivarius.plans)
